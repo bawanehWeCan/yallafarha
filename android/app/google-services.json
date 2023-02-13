@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "95320836957",
+    "project_id": "yala-farha-2e84f",
+    "storage_bucket": "yala-farha-2e84f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95320836957:android:e907f1eb40578361b7b6b4",
+        "android_client_info": {
+          "package_name": "com.yallahfarha.Wecan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95320836957-67t8i6in569i7ppckpcei5i06elt1gkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOEvxDZFDqIazaGw5NZ1h7A1c8lR9BMhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95320836957-67t8i6in569i7ppckpcei5i06elt1gkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95320836957:android:13f059425797a967b7b6b4",
+        "android_client_info": {
+          "package_name": "com.yallahfarha.wecan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95320836957-67t8i6in569i7ppckpcei5i06elt1gkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOEvxDZFDqIazaGw5NZ1h7A1c8lR9BMhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95320836957-67t8i6in569i7ppckpcei5i06elt1gkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
